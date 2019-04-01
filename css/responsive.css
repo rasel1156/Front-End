@@ -1,0 +1,21 @@
+/* ==========================================================================
+Responaive css
+========================================================================== */
+
+/* width 992-1070 css device */
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+   
+}
+
+/* width 767 css device */
+@media screen and (max-width: 767px) {
+   
+}
+
+/* width 460-767 css device */
+@media screen and (min-width: 460px) and (max-width: 767px) {}
